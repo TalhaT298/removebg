@@ -19,6 +19,12 @@ def remove_background():
         return "No selected file", 400
     
     # Remove background
+    # Remove background
+    # Remove background
+    # Remove background
+    # Remove background
+    # Remove background
+    # Remove background# 
     input_image = Image.open(file)
     output_image = remove(input_image)
 

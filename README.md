@@ -1,6 +1,6 @@
 # Background Remover Application
 
-This is a simple **Flask web application** for removing backgrounds from uploaded images. Built with Flask, Python's Pillow library, and the Rembg package, this application allows users to upload an image, removes its background, and provides the processed image for download.
+This is a simple **Flask web application** for removing backgrounds from uploaded images. Built with Flask, Python's Pillow library, and the Rembg package, this application allows users to upload an image, removes its background, and provides the processed image for download..
 
 ## Features
 
